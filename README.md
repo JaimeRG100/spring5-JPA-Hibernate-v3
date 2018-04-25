@@ -1,1 +1,1 @@
-# spring5-JPA-Hibernate-v3
+# spring5-JPA-Hibernate-v2
